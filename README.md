@@ -61,7 +61,7 @@ The project relies on the following major dependencies:
 
 ## Contributor
 <a href="https://github.com/HarshRathi09">
-  <img src="https://avatars.githubusercontent.com/u/143495024?v=4" />
+  <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px"/>
 </a>
 
 <!-- <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px;"/><br /><sub><a href="https://github.com/HarshRathi09">HarshRathi09</a></sub>(https://github.com/HarshRathi09)
