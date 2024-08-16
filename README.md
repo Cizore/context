@@ -59,6 +59,17 @@ The project relies on the following major dependencies:
 - Store your Hugging Face token in the Streamlit secrets file as `HF_TOKEN`.
 - Additional configuration options may be found within the `app.py` file.
 
+  <style>
+      .photos{
+           display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+      }
+  </style>
+
 ## Contributor
 <a href="https://github.com/HarshRathi09">
   <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px" style="border-radius: 50%;"/>
