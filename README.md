@@ -61,11 +61,18 @@ The project relies on the following major dependencies:
 
 
 ## Contributor
-<a href="https://github.com/HarshRathi09">
+<!--<a href="https://github.com/HarshRathi09">
   <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px" style="border-radius: 50%;"/><br/>
     Harsh Rathi
-</a>
+</a> -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 <!-- <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px;"/><br /><sub><a href="https://github.com/HarshRathi09">HarshRathi09</a></sub>(https://github.com/HarshRathi09)
