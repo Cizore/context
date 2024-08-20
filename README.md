@@ -1,4 +1,4 @@
-# RAG Chatbot Application🤖
+## RAG Chatbot Application🤖
 
 ## Introduction
 This project implements a Context-Aware Retrieval-Augmented Generation (RAG) chatbot using Streamlit. The chatbot combines cutting-edge natural language processing with efficient information retrieval to deliver intelligent, context-sensitive responses. It is powered by the Mistral-7B-Instruct-v0.3 language model, a state-of-the-art AI capable of understanding and generating human-like text. The system is integrated with ChromaDB, a high-performance vector database, enabling rapid and relevant information retrieval to augment the chatbot's responses. This architecture allows the chatbot to provide more accurate, informative, and contextually appropriate answers by leveraging both its language understanding capabilities and a vast knowledge base.
@@ -63,5 +63,22 @@ The project relies on the following major dependencies:
 - Additional configuration options may be found within the `app.py` file.
 
 
+## Contributor
+<!--<a href="https://github.com/HarshRathi09">
+  <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px" style="border-radius: 50%;"/><br/>
+    Harsh Rathi
+</a> -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+<!-- <img src="https://avatars.githubusercontent.com/u/143495024?v=4" width="60px;"/><br /><sub><a href="https://github.com/HarshRathi09">HarshRathi09</a></sub>(https://github.com/HarshRathi09)
+ -->
 
 
