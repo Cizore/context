@@ -102,7 +102,7 @@ def process_feedback(query, response, feedback):
         # If thumbs up, store the response in memory buffer
         memory.chat_memory.add_ai_message(response)
     else:
-        # If thumbs down, remove the response from memory buffer and regenerate the response
+        # If thumbs down, remove the response from memory buffer and regenerate a new response
        # memory.chat_memory.messages = [msg for msg in memory.chat_memory.messages if msg.get("content") != response]
         new_query=f"{query}. Give better response"
         new_response = rag_query(new_query)
